@@ -1,7 +1,5 @@
 
 public interface SomeInterface {
-	
-	String funnyJoke = "проаналізувати виконання арифметичних операцій";
-	void tellFunnyJoke();
-
+	static String funnyJoke = "РїСЂРѕР°РЅР°Р»С–Р·СѓРІР°С‚Рё РІРёРєРѕРЅР°РЅРЅСЏ Р°СЂРёС„РјРµС‚РёС‡РЅРёС… РѕРїРµСЂР°С†С–Р№";
+	public String tellFunnyJoke();
 }
